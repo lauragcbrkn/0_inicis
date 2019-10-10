@@ -1,6 +1,6 @@
 # 0_inicis
 Crea un repositori
-#Actividades
+##Actividades
 [1_sitioweb](https://lauragcbrkn.github.io/1llocweb/)
 [_CMYK]()
 ## Pàgines classe
