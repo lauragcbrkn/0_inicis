@@ -2,8 +2,8 @@
 Crea un repositori
 
 ##Actividades
-*[1_sitioweb](https://lauragcbrkn.github.io/1llocweb/)
-*[2_CMYK](https://lauragcbrkn.github.io/2_cmyk/)
+* [1_sitioweb](https://lauragcbrkn.github.io/1llocweb/)
+* [2_CMYK](https://lauragcbrkn.github.io/2_cmyk/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
