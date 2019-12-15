@@ -8,6 +8,7 @@ Crea un repositori
 * [4_maquetacion](https://lauragcbrkn.github.io/4_maquetacion/)
 * [6_tarjetes](https://lauragcbrkn.github.io/6_tarjetes/)
 * [7_landingpage](https://lauragcbrkn.github.io/7_landingpage/)
+* [8_grid](https://lauragcbrkn.github.io/8_grid/)
 * [9_gridtemplatearea](https://lauragcbrkn.github.io/9_gridtemplatearea/)
 * [10_minimalissimo](https://lauragcbrkn.github.io/10_minimalissimo/)
 * [12_madebyfieldwork](https://lauragcbrkn.github.io/12_madebyfieldwork/)
