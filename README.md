@@ -6,7 +6,7 @@ Crea un repositori
 * [2_CMYK](https://lauragcbrkn.github.io/2_cmyk/)
 * [7_landingpage](https://lauragcbrkn.github.io/7_landingpage/)
 * [9_gridtemplatearea](https://lauragcbrkn.github.io/9_gridtemplatearea/)
-
+* [10_minimalissimo] [
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
