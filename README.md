@@ -12,6 +12,7 @@ Crea un repositori
 * [9_gridtemplatearea](https://lauragcbrkn.github.io/9_gridtemplatearea/)
 * [10_minimalissimo](https://lauragcbrkn.github.io/10_minimalissimo/)
 * [12_madebyfieldwork](https://lauragcbrkn.github.io/12_madebyfieldwork/)
+* [13_examenhtml](https://lauragcbrkn.github.io/13_examenhtml/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
