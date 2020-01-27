@@ -13,7 +13,7 @@ Crea un repositori
 * [10_minimalissimo](https://lauragcbrkn.github.io/10_minimalissimo/)
 * [12_madebyfieldwork](https://lauragcbrkn.github.io/12_madebyfieldwork/)
 * [13_examenhtml](https://lauragcbrkn.github.io/13_examenhtml/)
-* [15_document_js](https://lauragcbrkn.github.io/15_document_js/)
+
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
