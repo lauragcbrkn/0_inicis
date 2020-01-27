@@ -13,6 +13,7 @@ Crea un repositori
 * [10_minimalissimo](https://lauragcbrkn.github.io/10_minimalissimo/)
 * [12_madebyfieldwork](https://lauragcbrkn.github.io/12_madebyfieldwork/)
 * [13_examenhtml](https://lauragcbrkn.github.io/13_examenhtml/)
+* [14_document_js](https://lauragcbrkn.github.io/14_document_js/)
 
 
 ## Pàgines classe
