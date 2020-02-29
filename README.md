@@ -14,6 +14,7 @@ Crea un repositori
 * [12_madebyfieldwork](https://lauragcbrkn.github.io/12_madebyfieldwork/)
 * [13_examenhtml](https://lauragcbrkn.github.io/13_examenhtml/)
 * [14_individual_js](https://lauragcbrkn.github.io/14_individual_js/)
+* [15_parejas](https://lauragcbrkn.github.io/15_parejas/)
 * [16_menu](https://lauragcbrkn.github.io/16_menu/)
 
 
