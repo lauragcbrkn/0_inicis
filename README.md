@@ -5,7 +5,7 @@ Crea un repositori
 * [1_sitioweb](https://lauragcbrkn.github.io/1llocweb/)
 * [2_CMYK](https://lauragcbrkn.github.io/2_cmyk/) 
 * [3_](https://lauragcbrkn.github.io/3_Broom/)
-* [4_maquetacion](ttps://lauragcbrkn.github.io/4_maquetacion/) 
+* [4_maquetacion](https://lauragcbrkn.github.io/4_maquetacion/) 
 * [6_tarjetes](https://lauragcbrkn.github.io/6_tarjetes/)
 * [7_landingpage](https://lauragcbrkn.github.io/7_landingpage/)
 * [8_grid](https://lauragcbrkn.github.io/8_grid/)
