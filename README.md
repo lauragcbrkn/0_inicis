@@ -16,6 +16,7 @@ Crea un repositori
 * [14_individual_js](https://lauragcbrkn.github.io/14_individual_js/)
 * [15_parejas](https://lauragcbrkn.github.io/15_parejas/)
 * [16_menu](https://lauragcbrkn.github.io/16_menu/)
+* [porfolio](https://lauragcbrkn.github.io/Porfolio/) 
 
 
 ## Pàgines classe
