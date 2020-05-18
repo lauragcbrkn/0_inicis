@@ -17,6 +17,7 @@ Crea un repositori
 * [15_parejas](https://lauragcbrkn.github.io/15_parejas/)
 * [16_menu](https://lauragcbrkn.github.io/16_menu/)
 * [porfolio](https://lauragcbrkn.github.io/porfolio/)   
+* [recuperacion](https://lauragcbrkn.github.io/recuperacion/)
 
 
 ## Pàgines classe
