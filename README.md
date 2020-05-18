@@ -18,6 +18,7 @@ Crea un repositori
 * [16_menu](https://lauragcbrkn.github.io/16_menu/)
 * [porfolio](https://lauragcbrkn.github.io/porfolio/)   
 * [recuperacion](https://lauragcbrkn.github.io/recuperacion/)
+* [examen](https://lauragcbrkn.github.io/examen/)
 
 
 ## Pàgines classe
